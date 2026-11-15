@@ -1,6 +1,5 @@
 # AI Interview Prep Coach
 
-Based on [yashprogrammer’s mem0_live](https://github.com/yashprogrammer/mem0_live), shared with the author's permission.
 
 A Streamlit interview coach that uses LangChain, Mem0, and local Qdrant storage to retrieve relevant candidate context across sessions.
 
