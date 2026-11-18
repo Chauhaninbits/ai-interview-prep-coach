@@ -1033,7 +1033,7 @@ wheels = [
 ]
 
 [[package]]
-name = "mem0-live"
+name = "ai-interview-prep-coach"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
